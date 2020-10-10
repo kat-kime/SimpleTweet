@@ -1,8 +1,13 @@
 package com.codepath.apps.restclienttemplate.models;
 
+import android.icu.text.RelativeDateTimeFormatter;
+
+import com.codepath.apps.restclienttemplate.TimeFormatter;
+
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
+
 
 import java.util.ArrayList;
 import java.util.List;
@@ -41,8 +46,8 @@ public class Tweet {
         return body;
     }
 
-    public String getCreatedAt() {
-        return createdAt;
+    public String getFormatedTimestamp() {
+        return TimeFormatter.getTimeDifference(createdAt);
     }
 
     public User getUser() {

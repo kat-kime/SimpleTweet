@@ -33,4 +33,13 @@
         android:layout_toEndOf="@+id/ivProfile"
         android:text="TextView"
         tools:text="Now that I'm taking Analysis of Algorithms for the first time, I realize applying to a bunch of internships this summer was a BOLD move  😂" />
+
+    <TextView
+        android:id="@+id/tvTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="14dp"
+        android:text="TextView"
+        tools:text="9m" />
 </RelativeLayout>
