@@ -9,16 +9,16 @@ Time spent: **10** hours spent in total
 The following functionality has been implemented:
 
 - [x] User can **compose and post a new tweet**
-  - [x] User can click a “Compose” icon in the Action Bar on the top right
-  - [x] User can then enter a new tweet and post this to twitter
-  - [x] User is taken back to home timeline with **new tweet visible** in timeline
-  - [x] Newly created tweet should be manually inserted into the timeline and not rely on a full refresh
-  - [x] User can **see a counter with total number of characters left for tweet** on compose tweet page
-  - [x] User can **sign in to Twitter** using OAuth login
-  - [x]	User can **view tweets from their home timeline**
-  - [x] User is displayed the username, name, and body for each tweet
-  - [x] User is displayed the relative timestamp for each tweet "8m", "7h"
-  - [x] User can refresh tweets timeline by pulling down to refresh
+- [x] User can click a “Compose” icon in the Action Bar on the top right
+- [x] User can then enter a new tweet and post this to twitter
+- [x] User is taken back to home timeline with **new tweet visible** in timeline
+- [x] Newly created tweet should be manually inserted into the timeline and not rely on a full refresh
+- [x] User can **see a counter with total number of characters left for tweet** on compose tweet page
+- [x] User can **sign in to Twitter** using OAuth login
+- [x]	User can **view tweets from their home timeline**
+- [x] User is displayed the username, name, and body for each tweet
+- [x] User is displayed the relative timestamp for each tweet "8m", "7h"
+- [x] User can refresh tweets timeline by pulling down to refresh
 
 
 ## Video Walkthrough
