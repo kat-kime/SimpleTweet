@@ -1,4 +1,4 @@
-# Project 2 - *Simple Tweet*
+# Simple Tweet
 
 **Simple Tweet** is an Android app that allows a user to view their Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
